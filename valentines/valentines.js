@@ -8,8 +8,8 @@ const noButtonTexts = [
 
 const imageUrls = [
     "runmilk.jpg",
-    "https://source.unsplash.com/500x300/?cute,kitten",
-    "https://source.unsplash.com/500x300/?cute,teddy",
+    "boaeyes.webp",
+    "puccagaru.jpg",
     "please.gif",
 ];
 
